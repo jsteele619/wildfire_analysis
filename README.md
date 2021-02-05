@@ -4,7 +4,7 @@ This project graphs wildfires across the United States. The dataset shows locati
 
 So far, I've graphed every fire in the United States over 100 acres in size between 1992-2015 and a visualization comparing Native American tribal land in America, to fires reported by Native American agencies. As you can see in the /graphs folder, there is significant overlap.
 
-Further analysis brought up interesting tangents such as the 2005 Biscuit fire (Oregon, ~500,000 acres) subsequent controversy seen here: https://en.wikipedia.org/wiki/Biscuit_Fire_publication_controversy
+Further analysis brought up interesting tangents such as the 2002 Biscuit fire (Oregon, ~500,000 acres) subsequent controversy seen here: https://en.wikipedia.org/wiki/Biscuit_Fire_publication_controversy
 
 Also look into my tableau visualization page for additional graphs: https://public.tableau.com/profile/jeremysteele#!/vizhome/wildfires_16118741119020/Sheet1
 
