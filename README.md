@@ -8,4 +8,6 @@ Also look into my tableau visualization page for additional graphs: https://publ
 
 # Citation
 
-Short, Karen C. 2017. Spatial wildfire occurrence data for the United States, 1992-2015 [FPAFOD20170508]. 4th Edition. Fort Collins, CO: Forest Service Research Data Archive. https://doi.org/10.2737/RDS-2013-0009.4 found at https://www.kaggle.com/rtatman/188-million-us-wildfires
+Short, Karen C. 2017. Spatial wildfire occurrence data for the United States, 1992-2015 [FPAFOD20170508]. 4th Edition. Fort Collins, CO: Forest Service Research Data Archive. https://doi.org/10.2737/RDS-2013-0009.4 
+
+https://www.kaggle.com/rtatman/188-million-us-wildfires
